@@ -112,8 +112,6 @@ These measurements provide actionable manufacturing quality metrics.
 Thermal-Cavity-Inspection/
 ├── .gitignore
 ├── README.md
-├── dataset/
-│   └── test_image.jpg
 ├── icons/
 │   ├── logo.jpg
 │   ├── logo_dark.jpg
@@ -130,7 +128,6 @@ Thermal-Cavity-Inspection/
 | ------------------- | ---------------------------------------------------- |
 | `.gitignore`        | Excludes temporary build artifacts and editor files  |
 | `README.md`         | Project documentation                                |
-| `dataset/`          | Sample thermal images for testing                    |
 | `icons/`            | GUI assets and application icons                     |
 | `src/app.py`        | Main Tkinter application and GUI engine              |
 | `src/processing.py` | Core computer vision and thermal analysis algorithms |
